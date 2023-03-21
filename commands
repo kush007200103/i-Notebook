@@ -1,0 +1,6 @@
+npx 
+
+npm i react-router-dom
+
+npm i concurrently
+
